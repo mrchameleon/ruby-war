@@ -22,6 +22,7 @@ this gets ugly very fast when simulating > ~100 games, and fills the terminal ta
 
 TODOs? 
 
+* utilize more class based methods to manipulate the game loop logic and sub functions instead of procedural messy code.
 * add flag for printing out hands during each round.
 * allow different rulesets  (1 card down during war, no shuffling, etc)
 * improve stats and stats output format (generate csv or something)
